@@ -6,4 +6,5 @@ In application scenarios such as power underground cables, it is necessary to dr
 example:
 
 var drawCableLines = new DrawCableLines();
+
 drawCableLines.createCableLines(point, dot, tablename, lineCounts, zoomNum, map);
